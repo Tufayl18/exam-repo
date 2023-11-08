@@ -20,7 +20,7 @@ git push --set-upstream origin master
 
 important steps
 create a file
-add
-commit
-status
-push
+add.
+commit.
+status.
+push.
